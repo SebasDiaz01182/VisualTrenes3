@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\DELL\Desktop\TEC\II Semestre\Estructura de datos\Progras\TrenesFinal3\SistemaTrenes3\CodRutas.h(111): warning C4715: 'ExisteCodRuta': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DELL\Desktop\TEC\II Semestre\Estructura de datos\Progras\TrenesFinal3\SistemaTrenes3\Boleteria.h(268): warning C4715: 'listaBoleteria::InsertarCiudad': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DELL\Desktop\TEC\II Semestre\Estructura de datos\Progras\TrenesFinal3\SistemaTrenes3\Rutas.h(511): warning C4715: 'DevolverUsuario': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DELL\Desktop\TEC\II Semestre\Estructura de datos\Progras\TrenesFinal3\SistemaTrenes3\Rutas.h(526): warning C4715: 'DevolverPrecio': no todas las rutas de acceso de control devuelven un valor
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  SistemaTrenes3.vcxproj -> C:\Users\DELL\Desktop\TEC\II Semestre\Estructura de datos\Progras\TrenesFinal3\SistemaTrenes3\Debug\SistemaTrenes3.exe
